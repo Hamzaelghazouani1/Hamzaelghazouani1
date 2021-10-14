@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'im hamza el ghazouani ,
+My name's hamza el ghazouani ,
 
 - 🔭 I’m currently working on improving my skills ;
 - 🌱 I’m currently learning computer engineering ;
