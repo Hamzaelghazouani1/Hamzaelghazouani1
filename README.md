@@ -9,3 +9,5 @@ My name's hamza el ghazouani ,
 
 --> My Portfolio : http://hamzaelghazouani.ml ;
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamzaelghazouani1)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamzaelghazouani1&layout=compact)](https://github.com/Hamzaelghazouani1)
+
