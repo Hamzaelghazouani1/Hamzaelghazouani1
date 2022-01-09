@@ -9,8 +9,7 @@ My name's hamza el ghazouani ,
 
 <a herf="http://hamzaelghazouani.ml ">My Portfolio</a>
 --> My Portfolio : http://hamzaelghazouani.ml ;
-<iframe id="inlineFrameExample"
-    title="Inline Frame Example"
+<iframe
     width="300"
     height="200"
     src="http://hamzaelghazouani.ml ">
