@@ -7,7 +7,7 @@ My name's hamza el ghazouani ,
 - 👯 I’m looking to collaborate on App Project ;
 - 📫 How to reach me: https://www.linkedin.com/in/hamzaelghazouani1 ;
 
-<a herf="http://hamzaelghazouani.ml " style="display: flex; justify-content:space-around; align-items: center;">My Portfolio</a>
+<a herf="http://hamzaelghazouani.ml ">My Portfolio</a>
 --> My Portfolio : http://hamzaelghazouani.ml ;
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElghazouaniHamza&layout=compact&theme=radical)
