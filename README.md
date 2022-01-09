@@ -9,7 +9,7 @@ My name's hamza el ghazouani ,
 
 --> My Portfolio : http://hamzaelghazouani.ml ;
 
-<div style={width:100%; display: flex; justify-content:space-around; align-items: center;}>
+<div >
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElghazouaniHamza&layout=compact&theme=radical)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElghazouaniHamza&show_icons=true&theme=radical)
 </div>
