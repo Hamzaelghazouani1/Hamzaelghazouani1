@@ -14,8 +14,8 @@ My name's hamza el ghazouani ,
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElghazouaniHamza&show_icons=true&theme=vue-dark)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ElghazouaniHamza&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ElghazouaniHamza&show_icons=true&theme=vue-dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ElghazouaniHamza&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ElghazouaniHamza&show_icons=true&theme=vue-dark" />
 </a>
