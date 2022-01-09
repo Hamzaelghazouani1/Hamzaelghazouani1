@@ -10,11 +10,9 @@ My name's hamza el ghazouani ,
 <a herf="http://hamzaelghazouani.ml ">My Portfolio</a>
 --> My Portfolio : http://hamzaelghazouani.ml ;
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElghazouaniHamza&layout=compact&theme=vue-dark)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElghazouaniHamza&show_icons=true&theme=vue-dark)
-
 <a href="http://hamzaelghazouani.ml">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElghazouaniHamza&layout=compact&theme=vue-dark" />
+  <img align="center" style="display: flex; justify-content: space-around;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElghazouaniHamza&layout=compact&theme=vue-dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ElghazouaniHamza&show_icons=true&theme=vue-dark" />
 </a>
 <a href="http://hamzaelghazouani.ml">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ElghazouaniHamza&show_icons=true&theme=vue-dark" />
