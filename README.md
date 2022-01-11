@@ -27,5 +27,5 @@ My name's hamza el ghazouani ,
 </a>
 <br>
 /*
-    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=ElghazouaniHamza&custom_title=This%20is%20a%20title&hide_border=true" />
+    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Hamzaelghazouani1&custom_title=This%20is%20a%20title&hide_border=true" />
 */
