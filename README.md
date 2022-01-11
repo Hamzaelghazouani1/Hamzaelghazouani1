@@ -7,7 +7,6 @@ My name's hamza el ghazouani ,
 - 👯 I’m looking to collaborate on App Project ;
 - 📫 How to reach me: https://www.linkedin.com/in/hamzaelghazouani1 ;
 
-<a herf="http://hamzaelghazouani.ml ">My Portfolio</a>
 --> My Portfolio : http://hamzaelghazouani.ml ;
 <br>
 <br>
