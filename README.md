@@ -26,4 +26,4 @@ My name's hamza el ghazouani ,
     <img align="center"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElghazouaniHamza&layout=compact&theme=vue-dark" />
 </a>
 <br>
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=ashutosh00710&bg_color=gotham&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=ashutosh00710&theme=gotham&area=true&hide_border=true" />
