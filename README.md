@@ -1,6 +1,6 @@
-### Hi there 👋 My name's hamza el ghazouani 
+<h1 align="center"> Hi there 👋 My name's hamza el ghazouani </h1>
 
-<p align="center">_________________________________________________________________________________________________</p>
+<p align="center">____________________________________________________________________________________________________________________________</p>
 
 --> My Portfolio : http://hamzaelghazouani.ml ;
 <br>
