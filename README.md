@@ -27,7 +27,6 @@
      <li>T-SQL</li>
      <li>PL-SQL</li>
 </ul>
-
 <br>
 <br>
      IDE :<br>
