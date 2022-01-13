@@ -13,7 +13,7 @@
      Work : <br>
                 ![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)
 
-<a href="http://hamzaelghazouani.ml" style="display: flex; justify-content: space-around; width: 100%;" align="center" >
+<a href="http://hamzaelghazouani.ml" align="center" >
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ElghazouaniHamza&show_icons=true&theme=vue-dark" />
    <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamzaelghazouani1&layout=compact&theme=vue-dark" />-->
 </a>
