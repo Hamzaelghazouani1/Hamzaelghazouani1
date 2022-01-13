@@ -40,4 +40,5 @@
 </a>
 <br>
 <img  src="https://activity-graph.herokuapp.com/graph?username=Hamzaelghazouani1&bg_color=0d1117&hide_title=true&theme=gotham&area=true&hide_border=true" />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hamzaelghazouani1)
+<img  src="https://github-readme-stats.vercel.app/api?username=Hamzaelghazouani1" />
+
