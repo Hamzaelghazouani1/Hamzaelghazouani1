@@ -21,7 +21,7 @@ My name's hamza el ghazouani ,
 
 <a href="http://hamzaelghazouani.ml" style="display: flex; justify-content: space-around; width: 100%;" >
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ElghazouaniHamza&show_icons=true&theme=vue-dark" />
-    <img align="center" height="150px" width="500px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElghazouaniHamza&layout=compact&theme=vue-dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElghazouaniHamza&layout=compact&theme=vue-dark" />
 </a>
 <br>
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Hamzaelghazouani1&bg_color=0d1117&hide_title=true&theme=gotham&area=true&hide_border=true" />
