@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋 My name's hamza el ghazouani </h1>
 
-<p>
+<p align="center">
      <img align="center" src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
      <img align="center" src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" />
 </p>
