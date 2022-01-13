@@ -24,8 +24,8 @@
      <p>SGBD :</p>          
 <ul>
      <li>My SQL</li>
-     <li>T-SQL</li>
-     <li>PL-SQL</li>
+     <li>SQL SERVER</li>
+     <li>ORACLE</li>
 </ul>
      <p>IDE :</p> 
           <img  src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" />
