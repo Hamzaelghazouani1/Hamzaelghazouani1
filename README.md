@@ -36,7 +36,7 @@
 <br>
 <a  href="http://hamzaelghazouani.ml" >
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ElghazouaniHamza&show_icons=true&theme=vue-dark" />
-   <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamzaelghazouani1&layout=compact&theme=vue-dark" />-->
 </a>
+   <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamzaelghazouani1&layout=compact&theme=vue-dark" />-->
 <br>
 <img  src="https://activity-graph.herokuapp.com/graph?username=Hamzaelghazouani1&bg_color=0d1117&hide_title=true&theme=gotham&area=true&hide_border=true" />
