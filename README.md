@@ -35,7 +35,7 @@
 <br>
 <br>
 <a  href="http://hamzaelghazouani.ml" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ElghazouaniHamza1&show_icons=true&theme=vue-dark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hamzaelghazouani1&show_icons=true&theme=vue-dark" />
 </a>
    <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamzaelghazouani1&layout=compact&theme=vue-dark" />-->
 <br>
