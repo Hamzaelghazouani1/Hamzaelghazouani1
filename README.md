@@ -31,16 +31,3 @@
           <img  src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" />
           <img  src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
           <img  src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
---> My Portfolio : http://hamzaelghazouani.ml ;
-<br>
-<br>
-<a  href="http://hamzaelghazouani.ml" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Hamzaelghazouani1&show_icons=true&theme=vue-dark" />
-</a>
-   <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamzaelghazouani1&layout=compact&theme=vue-dark" />-->
-<br>
-<img  src="https://activity-graph.herokuapp.com/graph?username=Hamzaelghazouani1&bg_color=0d1117&hide_title=true&theme=gotham&area=true&hide_border=true" />
-
-<a  href="http://hamzaelghazouani.ml" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamzaelghazouani1&theme=vue-dark" />
-</a>
