@@ -7,11 +7,14 @@
 
 <p>🚍 Communication </p>
 ![HTTP](https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png)
+
 ![websocket](https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png)
+
 ![REST](https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png)
 
 <p>🧰 Version Control</p>
 ![GIT](https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png)
+
 ![GitHub](https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png)
 
 <p></p>
@@ -20,6 +23,7 @@
 <p>framework :</p>     
       
 ![Spring Boot](https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png)
+
 ![Angular](https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png)
      
 <p>langage de programmation : </p>
