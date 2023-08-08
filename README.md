@@ -1,4 +1,4 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
+[![MasterHead](Banner-Linkedin-01.png)](https://github.com/Hamzaelghazouani1)
 <h1 align="center">Hi 👋, I'm Hamza el ghazouani</h1>
 <h3 align="center">A passionate full-stack developer from Morocco</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
