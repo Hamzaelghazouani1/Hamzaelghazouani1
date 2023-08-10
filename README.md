@@ -24,6 +24,7 @@
 ![Rust](https://img.shields.io/badge/Rust-05122A?style=flat&logo=Rust&logoColor=brown)&nbsp;
 
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=figma&logo=figma)&nbsp;
+![Figma](https://img.shields.io/badge/-Photoshop-05122A?style=photoshop&logo=photoshop)&nbsp;
 
 
 <p align="center">
