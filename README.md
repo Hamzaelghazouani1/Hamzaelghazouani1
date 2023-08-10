@@ -21,7 +21,7 @@
 ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![Rust](https://img.shields.io/badge/Rust-05122A?style=flat&logo=Rust&logoColor=brown)&nbsp;
-![Angular](https://img.shields.io/badge/Angular-05122A?style=flat&logo=Svelte&logoColor=orange)&nbsp;
+![Angular](https://img.shields.io/badge/Angular-05122A?style=flat&logo=Angular&logoColor=orange)&nbsp;
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzaelghazouani1&" alt="hamzaelghazouani1" />
