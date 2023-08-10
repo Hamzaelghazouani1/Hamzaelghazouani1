@@ -15,5 +15,6 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzaelghazouani1&" alt="hamzaelghazouani1" />
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lokaimoma&layout=compact) 
 </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lokaimoma&layout=compact) 
