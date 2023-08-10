@@ -25,6 +25,7 @@
 
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=figma&logo=figma)&nbsp;
 ![Figma](https://img.shields.io/badge/-Photoshop-05122A?style=photoshop&logo=photoshop)&nbsp;
+![Figma](https://img.shields.io/badge/-Illustrator-05122A?style=illustrator&logo=illustrator)&nbsp;
 
 
 <p align="center">
