@@ -23,6 +23,9 @@
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![Rust](https://img.shields.io/badge/Rust-05122A?style=flat&logo=Rust&logoColor=brown)&nbsp;
 
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=figma&logo=figma)&nbsp;
+
+
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzaelghazouani1&" alt="hamzaelghazouani1" />
 </p>
