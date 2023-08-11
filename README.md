@@ -1,5 +1,5 @@
 [![MasterHead](Banner-Linkedin-01.png)](https://github.com/Hamzaelghazouani1)
-<h1 align="center">Hi 👋, I'm Hamza el ghazouani</h1>
+<h1 align="center">Hello Friend 👋</h1>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
 
 
@@ -12,7 +12,7 @@
   <a href="https://www.hackerrank.com/elghazouani_ham1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="elghazouani_ham1" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left"> 🛠  Languages and Tools:</h3>
 
 ![Angular](https://img.shields.io/badge/Angular-05122A?style=flat&logo=Angular&logoColor=orange)&nbsp;
 
