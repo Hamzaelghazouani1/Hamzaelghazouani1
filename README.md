@@ -20,8 +20,6 @@
 ![Typescript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
-![Rust](https://img.shields.io/badge/Rust-05122A?style=flat&logo=Rust&logoColor=brown)&nbsp;
 
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=figma&logo=figma)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=photoshop&logo=photoshop)&nbsp;
