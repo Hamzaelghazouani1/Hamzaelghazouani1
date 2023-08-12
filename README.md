@@ -15,7 +15,7 @@
 <h3 align="left"> 🛠  Languages and Tools:</h3>
 
 ![Angular](https://img.shields.io/badge/Angular-05122A?style=flat&logo=Angular&logoColor=red)&nbsp;
-![Spring boot](https://img.shields.io/badge/Spring-boot-05122A?style=flat&logo=Spring&logoColor=green)&nbsp;
+![Springboot](https://img.shields.io/badge/Spring-boot-05122A?style=flat&logo=Spring-boot&logoColor=green)&nbsp;
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
