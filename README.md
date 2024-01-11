@@ -20,7 +20,7 @@
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-[Tailwindcss](https://img.shields.io/badge/Tailwindcss-121212?style=flat&logo=tailwindcss&logoColor=blue)&nbsp;
+![Tailwindcss](https://img.shields.io/badge/Tailwindcss-121212?style=flat&logo=tailwindcss&logoColor=blue)&nbsp;
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -43,6 +43,8 @@
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-el-ghazouani)
 
 <p align="center">
+  
 ![Profile Stats](https://github-readme-stats.vercel.app/api?username=Hamzaelghazouani1&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamzaelghazouani1&layout=compact) 
+
 </p>
