@@ -39,9 +39,6 @@
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=illustrator&logo=illustrator)&nbsp;
 ![PremierePro](https://img.shields.io/badge/-PremierePro-05122A?style=PremierePro&logo=PremierePro)&nbsp;
 
-  🌍 Find me around the web 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-el-ghazouani)
-
 <p align="center">
   
 ![Profile Stats](https://github-readme-stats.vercel.app/api?username=Hamzaelghazouani1&show_icons=true)
